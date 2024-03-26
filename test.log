@@ -1,0 +1,10 @@
+[DEBUG] 2024-01-26 22:13:33 - This is a debug message.
+[ERROR] 2024-01-26 22:13:33 - This is an error message.
+[INFO] 2024-01-26 22:13:33 - This message should be printed to the console.
+[INFO] 2024-01-26 22:13:33 - This is an informational message.
+[WARN] 2024-01-26 22:13:33 - This is a warning message.
+[DEBUG] 2024-01-26 22:14:03 - This is a debug message.
+[ERROR] 2024-01-26 22:14:03 - This is an error message.
+[INFO] 2024-01-26 22:14:03 - This message should be printed to the console.
+[INFO] 2024-01-26 22:14:03 - This is an informational message.
+[WARN] 2024-01-26 22:14:03 - This is a warning message.
